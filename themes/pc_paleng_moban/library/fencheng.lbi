@@ -1,0 +1,25 @@
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#eee">
+          <tr align="center">
+            <td bgcolor="#ffffff">会员ID</td>
+            <td bgcolor="#ffffff">会员名称</a></td>
+            <td bgcolor="#ffffff">电话</td>
+            <td bgcolor="#ffffff">邮箱</td>
+	    <td bgcolor="#ffffff">注册时间</td>
+	    <td bgcolor="#ffffff">上次登录时间</td>
+          </tr>
+          <!-- {foreach from=$huiyuan  item=val} -->
+          <tr align="center">
+            <td bgcolor="#ffffff">{$val.user_id}</td>
+            <td bgcolor="#ffffff">{$val.user_name}</td>
+            <td bgcolor="#ffffff">{$val.mobile_phone}</td>
+            <td bgcolor="#ffffff">{$val.email}</td>
+	    <td bgcolor="#ffffff">{$val.reg_time}</td>
+	    <td bgcolor="#ffffff">{$val.last_login}</td>
+          </tr>
+          <!-- {/foreach} -->
+        </table>
+
+
+
+

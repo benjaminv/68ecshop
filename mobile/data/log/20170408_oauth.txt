@@ -1,0 +1,21 @@
+20170408 23:51:32
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170408 23:51:33
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170408 23:51:36
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+
+20170408 23:51:43
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170408 23:52:03
+0--- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170408 23:52:03
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170408 23:52:09
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+

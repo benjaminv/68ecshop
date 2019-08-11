@@ -1,0 +1,54 @@
+20170409 00:32:45
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170409 00:32:50
+0--- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170409 00:32:51
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170409 00:33:07
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170409 00:33:15
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+
+20170409 00:33:35
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170409 00:33:53
+0--- http://localhost/jingdong1/mobile/lucky_buy.php
+
+20170409 00:33:54
+0--- http://localhost/jingdong1/mobile/lucky_buy.php?act=asynclist&type=
+
+20170409 00:33:56
+0--- http://localhost/jingdong1/mobile/lucky_buy.php?act=view&act_id=10&u=0
+
+20170409 00:33:59
+0--- http://localhost/jingdong1/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=6
+
+20170409 00:34:09
+0--- http://localhost/jingdong1/mobile/lucky_buy.php
+
+20170409 00:35:04
+0--- http://localhost/jingdong1/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=6
+
+20170409 00:35:06
+0--- http://localhost/jingdong1/mobile/lucky_buy.php
+
+20170409 00:35:06
+0--- http://localhost/jingdong1/mobile/lucky_buy.php?act=asynclist&type=
+
+20170409 00:35:13
+0--- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170409 00:35:14
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170409 00:43:46
+0--- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170409 00:43:48
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+

@@ -1,0 +1,132 @@
+20170322 21:59:33
+0--- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170322 21:59:34
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170322 21:59:49
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=list&type=2
+
+20170322 21:59:50
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=2
+
+20170322 21:59:54
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=view&act_id=9&level=2&u=0
+
+20170322 22:00:06
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=userlist
+
+20170322 22:00:06
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:00:10
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=2
+
+20170322 22:02:54
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=list
+
+20170322 22:02:54
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170322 22:03:07
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=view&act_id=12&level=2&u=0
+
+20170322 22:03:12
+0--- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+
+20170322 22:03:20
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+
+20170322 22:03:43
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php
+
+20170322 22:03:44
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asynclist&type=0
+
+20170322 22:03:46
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=view&act_id=12&level=2&u=3
+
+20170322 22:05:32
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=view&act_id=12&level=2&u=3
+
+20170322 22:05:36
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=buy
+
+20170322 22:06:31
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=userlist
+
+20170322 22:06:31
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:06:41
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=1&level=3
+
+20170322 22:06:49
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=view&act_id=4&level=3&u=3
+
+20170322 22:06:56
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:07:03
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=1&level=3
+
+20170322 22:10:08
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:10:11
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 22:13:42
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:13:46
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=userlist
+
+20170322 22:13:46
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:13:50
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=1&level=3
+
+20170322 22:14:34
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 22:14:36
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 23:35:03
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 23:35:12
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=userlist
+
+20170322 23:35:12
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 23:35:15
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 23:35:21
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 23:35:34
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 23:36:02
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 23:36:11
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=userlist
+
+20170322 23:36:11
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 23:36:18
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=pt_view&pt_id=4&level=2
+
+20170322 23:36:21
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
+20170322 23:36:31
+3-palenggege-- http://localhost/jingdong1/mobile/extpintuan.php?act=asyncuserlist
+
